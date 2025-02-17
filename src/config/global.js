@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Prospección de cliente',
+    Name: 'Prospección de clientes',
     Description:
       'En este componente se identifica el conjunto de actividades que realiza una empresa para seleccionar a sus clientes. Así mismo, se expondrá su tipología, los mercados en los cuales se desenvuelven y las estrategias que se utilizan con el fin de atraerlos, retenerlos y fidelizarlos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
