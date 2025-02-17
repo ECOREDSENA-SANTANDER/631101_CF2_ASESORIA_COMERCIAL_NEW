@@ -140,7 +140,7 @@ export default {
       },
       {
         icono: 'far fa-registered',
-        titulo: 'Créditosssss',
+        titulo: 'Créditos',
         nombreRuta: 'creditos',
       },
     ],
