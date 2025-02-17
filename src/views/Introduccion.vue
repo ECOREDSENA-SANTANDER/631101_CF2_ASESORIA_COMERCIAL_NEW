@@ -9,12 +9,12 @@
           i.fas.fa-info
       h1 Introducción
     
-    .row.justify-content-center.align-items-center           
-      .col-lg-12
-        figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+    p.mb-4 La prospección de clientes es una técnica o metodología que se utiliza para buscar y encontrar clientes potenciales. De ahí la importancia de comprenderlos tanto desde su perspectiva como desde la organización. El siguiente video expone brevemente lo que se desarrollará en el transcurso de este componente, a partir del cliente:
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/o-UWF_MFahc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video: Prospección de clientes: Introducción
+      
 </template>
 
 <script>

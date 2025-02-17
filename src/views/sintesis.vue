@@ -2,17 +2,16 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. 
-    
+    p.mb-5 La prospección de clientes es un proceso esencial para el desarrollo de negocios y ventas, que implica la identificación y selección de posibles clientes para una empresa. Este componente abarca actividades clave, como la identificación de clientes potenciales usando herramientas y técnicas como bases de datos, redes sociales, ferias comerciales y referencias. Además, la segmentación del mercado es fundamental, ya que permite dividir el mercado en segmentos más pequeños y específicos con características comunes, facilitando así un enfoque más efectivo en los esfuerzos de marketing. La investigación de mercado juega un papel crucial en este proceso, ya que permite analizar el comportamiento del consumidor y las tendencias del mercado para adaptar las estrategias de prospección. En cuanto a la tipología de los clientes, es vital comprender los diferentes tipos de clientes y sus necesidades específicas para poder atraerlos de manera efectiva. Las estrategias utilizadas para atraer, retener y fidelizar a los clientes incluyen el marketing de contenidos, el uso de tecnologías de automatización de marketing, programas de fidelización y un servicio al cliente excepcional. La combinación de estas actividades y estrategias asegura que la empresa no solo pueda captar nuevos clientes, sino también mantener y fortalecer las relaciones con los clientes actuales, promoviendo así un crecimiento sostenible y rentable.
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La prospección de clientes es un proceso clave para el crecimiento de las ventas, que incluye identificar y segmentar clientes potenciales mediante herramientas como bases de datos, redes sociales y ferias. A través de la investigación de mercado, se analizan tendencias y comportamientos para adaptar las estrategias. Las tácticas de marketing, fidelización y excelente servicio al cliente ayudan a atraer, retener y fortalecer relaciones con los clientes, asegurando un crecimiento sostenible para la empresa.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/bullets/icono-pdf.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo. Síntesis
 
