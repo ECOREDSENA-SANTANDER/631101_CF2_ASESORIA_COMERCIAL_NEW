@@ -21,14 +21,14 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 6. 
           | Funciones del #[em marketing] relacional
-        img(src='@/assets/curso/temas/Tema2/img01.svg' alt='El <i>marketing</i> relacional debe potenciar que los clientes aumenten el número de compras y traigan nuevos clientes. Es fundamental identificar a los clientes y conocer en profundidad sus necesidades y deseos. Captar implica ofrecer los productos de la empresa al público objetivo, según la información recibida de la fase de identificación. Satisfacer a los clientes potenciales con productos es clave para que se conviertan en clientes reales. Retener clientes es el objetivo principal: se debe lograr que sean fieles, estén totalmente satisfechos y se conviertan en clientes apóstoles que hablen bien de la empresa.')
+        img(src='@/assets/curso/temas/Tema2/img01.svg' alt='El marketing relacional debe potenciar que los clientes aumenten el número de compras y traigan nuevos clientes. Es fundamental identificar a los clientes y conocer en profundidad sus necesidades y deseos. Captar implica ofrecer los productos de la empresa al público objetivo, según la información recibida de la fase de identificación. Satisfacer a los clientes potenciales con productos es clave para que se conviertan en clientes reales. Retener clientes es el objetivo principal: se debe lograr que sean fieles, estén totalmente satisfechos y se conviertan en clientes apóstoles que hablen bien de la empresa.')
     .py-3
     p Con base en lo anterior, se concluye que toda empresa que quiera alcanzar el éxito dentro del mercado debe enfocarse en el cliente. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
-          p Solo las empresas que conocen y entienden de mejor manera las necesidades, los intereses y deseos de sus clientes, son aquellas capaces de preparar las mejores propuestas de productos para ser entregados al mercado .
+          p Sólo las empresas que conocen y entienden de mejor manera las necesidades, los intereses y deseos de sus clientes, son aquellas capaces de preparar las mejores propuestas de productos para ser entregados al mercado .
     
     separador
     #t_2_1.titulo-segundo.mb-4
@@ -107,76 +107,68 @@
               .row.justify-content-center
                 .col-12
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img02.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Fomentar que los clientes actuales informen o recomienden
-                  p.text-center(data-aos="fade-right") El establecimiento a otros posibles clientes o bien pongan al empresario en contacto con ellos.
+                  .row.justify-content-center(data-aos="fade-right")
+                    .col-12.mb-4
+                      p.text-center.mb-0 #[b Fomentar que los clientes actuales informen o recomienden] el establecimiento a otros posibles clientes o bien pongan al empresario en contacto con ellos.
             
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img03.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Exposición pública y demostraciones
-
-                  p.text-center(data-aos="fade-right") Contacto directo con el segmento de clientes que se quiere captar. Por ejemplo, un supermercado puede ofrecer degustaciones gratuitas de determinados productos.
+                  .row.justify-content-center(data-aos="fade-right")
+                    .col-12.mb-4
+                      p.text-center.mb-0 #[b Exposición pública y demostraciones] contacto directo con el segmento de clientes que se quiere captar. Por ejemplo, un supermercado puede ofrecer degustaciones gratuitas de determinados productos.
             
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img04.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Establecer redes de contacto
-                  p.text-center(data-aos="fade-right") Buscar y contactar con los clientes allí donde estén, por ejemplo, un establecimiento de ropa y complementos deportivos puede financiar un club de fútbol de aficionados.
-            
+                  .row.justify-content-center(data-aos="fade-right") 
+                    .col-12.mb-4
+                      p.text-center.mb-0 #[b Establecer redes de contacto] buscar y contactar con los clientes allí donde estén, por ejemplo, un establecimiento de ropa y complementos deportivos puede financiar un club de fútbol de aficionados.
+    
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img05.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Localizarlos
-                  p.text-center(data-aos="fade-right") En caso de que los clientes sean otros negocios se puede buscar en registros públicos, directorios, entre otros.
+                  .row.justify-content-center(data-aos="fade-right")
+                    .col-12.mb-4
+                      p.text-center.mb-0 #[b Localizarlos] en caso de que los clientes sean otros negocios se puede buscar en registros públicos, directorios, entre otros.
+      
             
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img06.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Hacerse ver
+                  .row.justify-content-center(data-aos="fade-right")
+                    .col-12.mb-4
+                      p.text-center.mb-0 #[b Hacerse ver] cartel anunciador, escaparate bien organizado e iluminado, propaganda escrita, anuncios y notas de prensa en medios de comunicación.
 
-                  p.text-center(data-aos="fade-right") Cartel anunciador, escaparate bien organizado e iluminado, propaganda escrita, anuncios y notas de prensa en medios de comunicación.
-            
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img07.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Contactar con los clientes utilizando sitios #[em web]
-                  p.text-center(data-aos="fade-right") Disponer de una web, un blog, una cuenta en Facebook o cualquier otra red social vertical u horizontal donde se encuentren los potenciales clientes.
+                  .row.justify-content-center(data-aos="fade-right")
+                    .col-12.mb-4
+                      p.text-center.mb-0 #[b Contactar con los clientes utilizando sitios] web. Disponer de una web, un #[em blog], una cuenta en Facebook o cualquier otra red social vertical u horizontal donde se encuentren los potenciales clientes.
+   
             
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img08.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Búsqueda de prescriptores
-
-                  p.text-center(data-aos="fade-right") Se trata de contactar con personas que puedan recomendar el establecimiento.
+                  .row.justify-content-center(data-aos="fade-right")
+                    .col-12.mb-4
+                      p.text-center.mb-0 #[b Búsqueda de prescriptores] se trata de contactar con personas que puedan recomendar el establecimiento.
             
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
                   img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img09.png' alt='AvatarTop')
-                  .row.justify-content-center
-                    .col-10.mb-4
-                      h4.text-center.mb-0 Organizar algún evento
-                  p.text-center(data-aos="fade-right") En el establecimiento que pueda atraer los clientes objetivo.
+                  .row.justify-content-center(data-aos="fade-right") 
+                    .col-12.mb-4
+                      p.text-center.mb-0 #[b Organizar algún evento] en el establecimiento que pueda atraer los clientes objetivo.
+              
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -195,9 +187,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/Tema2/img10.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Retener a un cliente que viene comprando,  es más económico que conseguir uno nuevo al que hay que invertir muchos recursos . 
+            p.mb-0 Retener a un cliente que viene comprando,  es más económico que conseguir uno nuevo al que hay que invertirle muchos recursos . 
     .py-3
-    p En este sentido, las empresas deben revisar aquellos clientes que compraron y que no volvieron hacerlo por alguna razón. Esos clientes están registrados en la base de datos o en la cartera aparecen como inactivos. De tal manera, que junto a las acciones que se utilizan para captar clientes debe unirse acciones para mantener a los actuales y ofrecerles, de acuerdo con su perfil y segmento, elementos promocionales como: descuentos, ofertas, cupones promocionales, vinculaciones a apps, invitaciones a participar en focus group, entre otros que son más detallados en las estrategias de fidelización para los clientes nuevos y los actuales. La siguiente figura presenta algunas recomendaciones:
+    p En este sentido, las empresas deben revisar aquellos clientes que compraron y que no volvieron hacerlo por alguna razón. Esos clientes están registrados en la base de datos o en la cartera aparecen como inactivos. De tal manera, que junto a las acciones que se utilizan para captar clientes debe unirse acciones para mantener a los actuales y ofrecerles, de acuerdo con su perfil y segmento, elementos promocionales como: descuentos, ofertas, cupones promocionales, vinculaciones a #[em apps], invitaciones a participar en #[em focus group], entre otros que son más detallados en las estrategias de fidelización para los clientes nuevos y los actuales. La siguiente figura presenta algunas recomendaciones:
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
@@ -211,25 +203,27 @@
       h2 2.3  Fidelizar clientes
     
     p.mb-4 La fidelización se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a lo largo del tiempo. 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-9
-        .bloque-texto-d.color-acento-contenido.p-4
-          .bloque-texto-d__texto.mb-2
-            i.fas.fa-quote-left
-            h3 Es un proceso que consiste en desarrollar una relación positiva entre los consumidores y la empresa, para que regresen a comprar tus productos o servicios.
-            i.fas.fa-quote-right
-          .bloque-texto-d__autor 
-            .h5.mb-0 (Escamilla, 2020).
     
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-lg-8
+        .bloque-texto-f.comillas.pt-4.px-5.mb-5
+          .bloque-texto-f__comillas
+            i.fas.fa-quote-left
+            i.fas.fa-quote-right
+          h4.text-regular.bloque-texto-f__texto Es un proceso que consiste en desarrollar una relación positiva entre los consumidores y la empresa, para que regresen a comprar tus productos o servicios.
+            br
+            br
+            p.mb-0  (Escamilla, 2020).
+
     p Un cliente es leal basado en un conjunto de interacciones satisfactorias con la empresa. La fidelización busca principalmente: 1) que el cliente siga comprando a lo largo del tiempo, y 2) aumentar el volumen de compra.
     p.mb-3 Basado en lo anterior, el siguiente video expone lo que conlleva el proceso de fidelización de un cliente, sus grados de satisfacción y la estrategia que se utiliza bajo los pasos del mercado relacional:
 
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Qqms7iMOcu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-      figcaption Video: Retener clientes: Fidelizar clientes 
+      figcaption Video: retener clientes: fidelizar clientes 
     .py-3
-    p La empresa debe incluir en su plan de fidelización programas que procuren mantener un vínculo de comunicación entre la empresa y los clientes. Entre los más utilizados se encuentran los siguientes.
+    p La empresa debe incluir en su plan de fidelización programas que procuren mantener un vínculo de comunicación entre la empresa y los clientes. Entre los más utilizados se encuentran los siguientes:
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-4.col-md-8.mb-3.mb-md-0
@@ -239,7 +233,7 @@
             .text.p-2
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
                 h4.mt-3.mb-3.text-white Tarjetas de fidelización
-                p.px-4 Se trata de premiar el consumo con obsequios. Este tipo de tarjetas ofrecen a los titulares una serie de ventajas adicionales como descuentos, puntos canjeables por regalos e incluso la devolución de un tanto por ciento de sus compras.
+                p.px-4 Se trata de premiar el consumo con obsequios. Este tipo de tarjetas ofrece a los titulares una serie de ventajas adicionales como descuentos, puntos canjeables por regalos e incluso la devolución de un tanto por ciento de sus compras.
       
       .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
@@ -273,8 +267,8 @@
             img(src="@/assets/curso/temas/Tema2/img16.png", alt="")
             .text.p-2
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
-                h4.mt-3.mb-3.text-white Gestionar clientes a través de Apps
-                p.px-4 Una aplicación en el móvil permite interactuar con los clientes. A este tipo de aplicaciones, se les puede añadir diferentes funcionalidades, como por ejemplo, una búsqueda de clientes para así, tenerlo todo ordenado y clasificado, según categorías o intereses.
+                h4.mt-3.mb-3.text-white Gestionar clientes a través de #[em apps]
+                p.px-4 Una aplicación en el móvil permite interactuar con los clientes. A este tipo de aplicaciones se les puede añadir diferentes funcionalidades, como por ejemplo, una búsqueda de clientes para así, tenerlo todo ordenado y clasificado según categorías o intereses.
       
       .col-lg-4.col-md-8.mb-3.mb-md-0
         .row.px-2.pt-2.h-100

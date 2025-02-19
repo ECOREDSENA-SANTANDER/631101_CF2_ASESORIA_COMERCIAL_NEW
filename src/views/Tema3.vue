@@ -17,16 +17,16 @@
             .col-12.mb-2
               .p-1 
                 h3.text-center.mb-0 Clientes actuales
-          p.mb-4.text-center Son todos los clientes que la empresa posee actualmente y por tanto representan un activo muy valioso; sobre todo para mantener el nivel de participación dentro del mercado total. Los clientes actuales se pueden mantener y aumentar su volumen de compra de la oferta de la empresa, con nuevos productos diferenciados para diversas necesidades; por ejemplo, Quala ofrece Frutiño, una bebida refrescante, pero también ofrece Nuti Bela para el cabello. Son dos necesidades diferentes que ayuda a aumentar sus ventas y el tamaño de su mercado.
-          p Para conservar a los clientes actuales, las empresas deben lograr la plena satisfacción de sus clientes, no solo con la entrega de productos de excelente calidad, sino brindando un nivel de servicio que los mantenga satisfechos y compren siempre la marca.
+          p.mb-4 Son todos los clientes que la empresa posee actualmente y por tanto representan un activo muy valioso, sobre todo para mantener el nivel de participación dentro del mercado total. Los clientes actuales se pueden mantener y aumentar su volumen de compra de la oferta de la empresa, con nuevos productos diferenciados para diversas necesidades. Por ejemplo, Quala ofrece Frutiño, una bebida refrescante, pero también ofrece NutriBela para el cabello. Son dos necesidades diferentes que ayuda a aumentar sus ventas y el tamaño de su mercado.
+          p.mb-4 Para conservar a los clientes actuales, las empresas deben lograr la plena satisfacción de sus clientes, no solo con la entrega de productos de excelente calidad, sino brindando un nivel de servicio que los mantenga satisfechos y compren siempre la marca.
       .col-lg-6.col-md-10.mb-4
         .overflow-hidden.h-100.bg4.p-4
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/Tema3/img02.png', alt='tema2')
           .row.justify-content-center.mb-3
             .col-12.mb-2
               .p-1 
-                h3.text-center.mb-0 Clientes potenciales
-          p.mb-4.text-center Los clientes potenciales son aquellos que probablemente adquirirán alguno de los productos o servicios que son ofertados por la empresa, pero aún no deciden la compra. Para que una empresa logre el crecimiento esperado debe procurar atraer estos clientes y lograr así aumentar su cuota de mercado o participación en el mismo. Para atraer nuevos clientes la empresa debe tener un producto diferenciado que genere valor para los clientes y se diferencie y supere lo que ofrece la competencia.
+                h3.mb-0.text-center Clientes potenciales
+          p.mb-4 Los clientes potenciales son aquellos que probablemente adquirirán alguno de los productos o servicios que son ofertados por la empresa, pero aún no deciden la compra. Para que una empresa logre el crecimiento esperado debe procurar atraer estos clientes y lograr así aumentar su cuota de mercado o participación en el mismo. Para atraer nuevos clientes la empresa debe tener un producto diferenciado que genere valor para los clientes y se diferencie y supere lo que ofrece la competencia.
 
     p De acuerdo con la Pursell (s.f.), de la revista HupSpot, los clientes potenciales se componen en:
     
@@ -50,7 +50,7 @@
               .row.justify-content-center.align-items-center.p-2
                 .col-lg-8.py-3
                   h4.px-4 Clientes potenciales según su grado de influencia
-                  p.px-4 Estos compradores son ideales para que la empresa crezca y es importante que estén informados acerca de los productos o servicios que ofrece. Las figuras públicas son altamente influyentes; los blogueros especializados, los críticos y reseñadores tienen una influencia regular. Por ejemplo, el 34 % de los consumidores de 18 a 34 años confía más en los influentes que en la publicidad.
+                  p.px-4 Estos compradores son ideales para que la empresa crezca y es importante que estén informados acerca de los productos o servicios que ofrece. Las figuras públicas son altamente influyentes, los blogueros especializados, los críticos y reseñadores tienen una influencia regular. Por ejemplo, el 34 % de los consumidores de 18 a 34 años confía más en los influentes que en la publicidad.
                 .col-lg-4.col-md-6.col-8
                   img(src='@/assets/curso/temas/Tema3/img05.png', alt='tema2') 
              

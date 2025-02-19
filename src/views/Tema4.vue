@@ -43,7 +43,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 9. 
           | Pasos que componen un prospecto 
-        img.mb-3(src='@/assets/curso/temas/Tema4/img02.svg', alt='Muestra los pasos que componen un prospecto, comenzando con la segmentación del mercado, seguida de la identificación de prospectos, la definición de candidatos, el contacto inicial y la preparación de la entrevista')
+        img.mb-3(src='@/assets/curso/temas/Tema4/img02.svg', alt='Muestra los pasos que componen un prospecto, comenzando con la segmentación del mercado, seguida de la identificación de prospectos, la definición de candidatos, el contacto inicial y la preparación de la entrevista.')
     p En este ciclo de referidos o prospectos, se tienen en cuenta los siguientes aspectos: 
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")

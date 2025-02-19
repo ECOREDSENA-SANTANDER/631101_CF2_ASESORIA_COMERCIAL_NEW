@@ -149,7 +149,7 @@ export default {
     {
       tema: '1. El cliente',
       referencia:
-        'Quiroa, M. (2021). Cliente. Economipedia. https://economipedia.com/definiciones/cliente.html ',
+        'Quiroa, M. (2021). Cliente que es y cuál es su importancia. Economipedia. https://economipedia.com/definiciones/cliente.html',
       tipo: 'Página web',
       link: 'https://economipedia.com/definiciones/cliente.html',
     },
@@ -183,13 +183,6 @@ export default {
       link: 'https://economipedia.com/definiciones/captacion-de-clientes.html',
     },
     {
-      tema: '2.3. Fidelizar clientes',
-      referencia:
-        'Escamilla , G. (2020). Fidelización del cliente: concepto, importancia, consejos y métricas. RD Station. https://www.rdstation.com/co/blog/fidelizacion-del-cliente/ ',
-      tipo: 'Página web',
-      link: 'https://www.rdstation.com/co/blog/fidelizacion-del-cliente/ ',
-    },
-    {
       tema: '3. Clasificación de clientes',
       referencia:
         'Bee Digital. (2020). Tipos de clientes: características y cómo tratarlos. https://www.beedigital.es/experiencia-de-cliente/tipos-de-clientes-caracteristicas/ ',
@@ -200,7 +193,7 @@ export default {
     {
       tema: '4. Prospección de los clientes',
       referencia:
-        'Da Silva (2020). Zendesk. Qué es prospección de clientes y 5 claves para implementar su estrategia. Zendesk. https://www.zendesk.com.mx/blog/que-es-prospeccion-clientes/ ',
+        'Da Silva, D. (2020). Zendesk. Qué es prospección de clientes y 5 claves para implementar su estrategia. Zendesk. https://www.zendesk.com.mx/blog/que-es-prospeccion-clientes/  ',
       tipo: 'Página web',
       link: 'https://www.zendesk.com.mx/blog/que-es-prospeccion-clientes/',
     },
@@ -244,7 +237,7 @@ export default {
     },
     {
       referencia:
-        'Pursell, S. (2021). Clientes potenciales: qué son, qué tipos existen y cómo identificarlos. HobSpot. ',
+        'Pursell, S. (2021). Clientes potenciales: qué son, qué tipos existen y cómo identificarlos. HubSpot.',
       link: 'https://blog.hubspot.es/marketing/tipos-de-clientes-potenciales ',
     },
     {
@@ -301,7 +294,7 @@ export default {
     {
       termino: 'Segmento de mercado',
       significado:
-        'es un grupo de consumidores, en su mayoría homogéneo, ya sea por determinadas características o por sus necesidades, los cuales son identificados como un mercado que presenta deseos o hábitos de compra parecidas y que potencialmente responderían similar a la estrategia desarrollada por el mix de marketing. (Quiroa, 2020)',
+        'es un grupo de consumidores, en su mayoría homogéneo, ya sea por determinadas características o por sus necesidades, los cuales son identificados como un mercado que presenta deseos o hábitos de compra parecidas y que potencialmente responderían similar a la estrategia desarrollada por el <i>mix</i> de <i>marketing</i>. (Quiroa, 2020)',
     },
   ],
   creditos: [
@@ -331,7 +324,7 @@ export default {
         {
           nombre: 'Miroslava González Hernández',
           cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Gestión Industrial Regional Distrito Capital',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
@@ -348,11 +341,11 @@ export default {
           nombre: 'Jhana Johanna Bustillo Ardila',
           cargo: 'Revisión de estilo',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluador instruccional',
+          nombre: 'Erika Fernandez Mejía Pinzón',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -381,7 +374,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Erika Daniela Manrique Rueda',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

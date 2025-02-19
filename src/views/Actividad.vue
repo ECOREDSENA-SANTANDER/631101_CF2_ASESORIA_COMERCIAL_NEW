@@ -24,7 +24,7 @@ export default {
         {
           id: 1,
           texto:
-            'Es el principal objetivo hacia donde la empresa realiza su mayor esfuerzo; hacía él todos los planes y las estrategias de mercadeo deben enfocarse, desarrollarse e implementarse en función de ese cliente.',
+            'Es el principal objetivo hacia donde la empresa realiza su mayor esfuerzo, hacía él todos los planes y las estrategias de mercadeo deben enfocarse, desarrollarse e implementarse en función de ese cliente.',
           imagen: require('@/assets/componentes/img01.png'),
           barajarRespuestas: true,
           opciones: [
