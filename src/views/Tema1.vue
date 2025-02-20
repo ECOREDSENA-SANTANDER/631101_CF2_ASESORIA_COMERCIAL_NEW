@@ -147,27 +147,32 @@
     p Los mercados industriales tienen tres tipos de compradores y de acuerdo con lo indicado por González (2020). A continuación, se presentan:  
     
     .row.justify-content-center.align-items-center
-      .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-12.mb-5(data-aos="fade-right")
         TabsA.color-primario
-          .tarjeta.color-acento-botones.bg77.p-4(titulo="Compradores industriales")
+          .tarjeta.color-acento-botones.bg77.p-2.col-lg-12(titulo="Compradores industriales")
             .row.justify-content-center.align-items-center
-              .col-lg-12
-                p.mb-0(data-aos="fade-right") #[b Compradores industriales:] Son aquellos que adquieren bienes y servicios para la obtención de productos intangibles que son objeto de comercialización posterior. Ejemplo: empresas de automóviles.
-               
-          .tarjeta.color-acento-botones.bg77.p-4(titulo="Compradores institucionales")
-            .row.justify-content-center.align-items-center
-              .col-lg-12
-                p.mb-0(data-aos="fade-right") #[b Compradores institucionales:] Son aquellos que adquieren bienes y servicios para la obtención de productos generalmente intangibles, la mayoría de los cuales no son objeto de comercialización. Es el caso de universidades, fuerzas armadas, entre otros.
+              .col-lg-6
+                h4 Compradores industriales:
+                p Son aquellos que adquieren bienes y servicios para la obtención de productos intangibles que son objeto de comercialización posterior. Ejemplo: empresas de automóviles.
+              .col-lg-4.col-md-6.col-8
+                img.py-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema1/1.png' alt='AvatarTop')
           
-          
-          .tarjeta.color-acento-botones.bg77.p-4(titulo="Intermediarios industriales")
+          .tarjeta.color-acento-botones.bg77.p-2.col-lg-12(titulo="Compradores institucionales")
             .row.justify-content-center.align-items-center
-              .col-lg-12
-                p.mb-0(data-aos="fade-right") #[b Compradores intermediarios industriales:] Están formados por los compradores de bienes y servicios para revenderlos posteriormente o para facilitar la venta de otros productos. Ejemplo: mayoristas, minoristas, empresas de servicios, entre otros.
-         
-      .col-lg-3.col-md-6.col-8
-       img.py-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema1/img10.png' alt='AvatarTop')
-
+              .col-lg-6
+                h4 Compradores institucionales
+                p Son aquellos que adquieren bienes y servicios para la obtención de productos generalmente intangibles, la mayoría de los cuales no son objeto de comercialización. Es el caso de universidades, fuerzas armadas, entre otros.
+              .col-lg-4.col-md-6.col-8
+                img.py-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema1/2.png' alt='AvatarTop')
+          
+          .tarjeta.color-acento-botones.bg77.p-2.col-lg-12(titulo="Compradores intermediarios")
+            .row.justify-content-center.align-items-center
+              .col-lg-6
+                h4 Compradores intermediarios industriales:
+                p Están formados por los compradores de bienes y servicios para revenderlos posteriormente o para facilitar la venta de otros productos. Ejemplo: mayoristas, minoristas, empresas de servicios, entre otros.
+              .col-lg-4.col-md-6.col-8
+                img.py-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema1/3.png' alt='AvatarTop')
+          
     
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12
