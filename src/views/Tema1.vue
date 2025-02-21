@@ -144,36 +144,39 @@
       h2 1.2 Mercados industriales    
     
     p “Los clientes de los mercados industriales son todas las empresas que demandan los satisfactores que produce una empresa, con el propósito de usarlos en su proceso de producción, para posteriormente transformarlos y elaborar un nuevo producto, que será puesto en el mercado para su consumo” (Quiroa, s.f.). Son de acuerdo con González (2020), “aquellos en los que se realizan transacciones de bienes y servicios empleados en la obtención de diferentes productos que son objeto de transacción posterior o que se adquieren para obtener un beneficio mediante su posterior reventa”.
-    p Los mercados industriales tienen tres tipos de compradores y de acuerdo con lo indicado por González (2020). A continuación, se presentan:  
+    p.mb-5 Los mercados industriales tienen tres tipos de compradores y de acuerdo con lo indicado por González (2020). A continuación, se presentan:  
     
     .row.justify-content-center.align-items-center
-      .col-lg-12.mb-5(data-aos="fade-right")
-        TabsA.color-primario
-          .tarjeta.color-acento-botones.bg77.p-2.col-lg-12(titulo="Compradores industriales")
-            .row.justify-content-center.align-items-center
-              .col-lg-6
-                h4 Compradores industriales:
-                p Son aquellos que adquieren bienes y servicios para la obtención de productos intangibles que son objeto de comercialización posterior. Ejemplo: empresas de automóviles.
-              .col-lg-4.col-md-6.col-8
-                img.py-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema1/1.png' alt='AvatarTop')
+      .col-lg-10.mb-5(data-aos="fade-right")  
+        PasosA.color-acento-contenido.mb-5(tipo="n")(data-aos="zoom-in-left")
+          .row
+            .col-md-8.mb-4.mb-md-0
+              h3 Compradores industriales:
+              p Son aquellos que adquieren bienes y servicios para la obtención de productos intangibles que son objeto de comercialización posterior. Ejemplo: empresas de automóviles.
+            .col-md-3
+              figure
+                img(src='@/assets/curso/temas/Tema1/1.png' alt='AvatarTop')
+        
+
+          .row
+            .col-md-3.mb-4.mb-md-0
+              figure
+                img(src='@/assets/curso/temas/Tema1/2.png', alt='Texto que describa la imagen')
+            .col-md-8
+              h3 Compradores institucionales
+              p Son aquellos que adquieren bienes y servicios para la obtención de productos generalmente intangibles, la mayoría de los cuales no son objeto de comercialización. Es el caso de universidades, fuerzas armadas, entre otros.
+              
+
+          .row
+            .col-md-8.mb-4.mb-md-0
+              h3 Compradores intermediarios industriales:
+              p Son aquellos que adquieren bienes y servicios para la obtención de productos generalmente intangibles, la mayoría de los cuales no son objeto de comercialización. Es el caso de universidades, fuerzas armadas, entre otros.
           
-          .tarjeta.color-acento-botones.bg77.p-2.col-lg-12(titulo="Compradores institucionales")
-            .row.justify-content-center.align-items-center
-              .col-lg-6
-                h4 Compradores institucionales
-                p Son aquellos que adquieren bienes y servicios para la obtención de productos generalmente intangibles, la mayoría de los cuales no son objeto de comercialización. Es el caso de universidades, fuerzas armadas, entre otros.
-              .col-lg-4.col-md-6.col-8
-                img.py-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema1/2.png' alt='AvatarTop')
-          
-          .tarjeta.color-acento-botones.bg77.p-2.col-lg-12(titulo="Compradores intermediarios")
-            .row.justify-content-center.align-items-center
-              .col-lg-6
-                h4 Compradores intermediarios industriales:
-                p Están formados por los compradores de bienes y servicios para revenderlos posteriormente o para facilitar la venta de otros productos. Ejemplo: mayoristas, minoristas, empresas de servicios, entre otros.
-              .col-lg-4.col-md-6.col-8
-                img.py-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema1/3.png' alt='AvatarTop')
-          
+            .col-md-3
+              figure
+                img(src='@/assets/curso/temas/Tema1/3.png', alt='Texto que describa la imagen')
     
+
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12
         p.mb-5 Por otro lado, con la naturaleza de los productos, los mercados industriales pueden clasificarse en:
