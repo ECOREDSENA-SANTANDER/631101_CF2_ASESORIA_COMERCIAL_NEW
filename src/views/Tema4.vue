@@ -43,7 +43,7 @@
         .titulo-sexto.color-secundario.mb-5
           h5 Figura 9. 
           | Pasos que componen un prospecto 
-        img.mb-3(src='@/assets/curso/temas/Tema4/img02.svg', alt='Muestra los pasos que componen un prospecto, comenzando con la segmentación del mercado, seguida de la identificación de prospectos, la definición de candidatos, el contacto inicial y la preparación de la entrevista.')
+        img.mb-3(src='@/assets/curso/temas/Tema4/img02.svg', alt='La figura representa los pasos para conformar un prospecto mediante un diseño curvo y segmentado en cinco colores distintos. Cada paso está numerado y acompañado de un ícono representativo. El proceso inicia con la segmentación del mercado en color azul y continúa con la identificación de prospectos en morado. Luego, la definición de candidatos se encuentra en amarillo, seguida del contacto inicial en púrpura. Finalmente, la preparación de la entrevista se ubica en un tono verde oscuro. El diseño utiliza una estructura fluida y encadenada, destacando la secuencia lógica de cada etapa.')
     p En este ciclo de referidos o prospectos, se tienen en cuenta los siguientes aspectos: 
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
