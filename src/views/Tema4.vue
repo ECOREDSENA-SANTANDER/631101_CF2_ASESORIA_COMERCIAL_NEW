@@ -54,7 +54,7 @@
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
-              img.mb-3(src='@/assets/curso/temas/Tema4/img03.svg', alt='Muestra que el proceso de prospecto incluye investigar detalladamente a cada cliente potencial, recopilando información específica como nombres completos, rango de edad, género, hábitos, estado civil y nivel de educación. Con esta información, se prepara una presentación de ventas adaptada a sus necesidades y deseos, destacando las características y beneficios del producto. Se programa un encuentro con el cliente ajustándose a sus condiciones de fecha y horario, aunque también se pueden realizar visitas en frío no planificadas. Tras concretar la cita, se entregan muestras o folletos como preparación para el siguiente paso. Si se trata de un servicio, se aclara el tipo de servicio ofrecido para facilitar la comprensión durante la entrevista.')
+              img.mb-3(src='@/assets/curso/temas/Tema4/img03.svg', alt='La figura ilustra el ciclo de prospectos mediante un esquema circular con seis etapas conectadas por flechas. En el centro, un recuadro  representa el "Banco de prospecto", desde donde inicia el proceso. Las etapas incluyen la captación del prospecto en azul, el contacto previo a la cita en amarillo, la cita en verde, la entrega del producto en un tono más oscuro de verde, el servicio en morado y el retorno al banco de prospectos.')
              
 
           .tarjeta.pc1.p-4(x="50%" y="17%" numero="")

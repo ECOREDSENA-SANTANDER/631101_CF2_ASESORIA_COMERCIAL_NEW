@@ -55,7 +55,7 @@
           h5 Figura 2. 
           | Conceptos de mercado
         img(src='@/assets/curso/temas/Tema1/img03.svg', alt='Se muestran los conceptos de mercado: Mercado potencial: es el conjunto de clientes que manifiesta un grado suficiente de interés en una determinada oferta. Mercado total: Es el conjunto de todos los compradores reales y potenciales de un producto. Mercado disponible: Es el conjunto de consumidores que tiene interés, ingresos y acceso a una oferta de mercado específica. Tamaño del mercado: Es el número de compradores que pudieran existir para una oferta de mercado en particular. Mercado disponible calificado: Es el conjunto de consumidores que tiene interés, ingresos, acceso y cualidades que concuerdan con la oferta de mercado en particular.') 
-    p Cada mercado debe conocer sus clientes, la manera cómo decide comprar, cómo convertirlo de #[em Shopper] a #[em Buyer] y monetizarlo, etc. Este cliente sigue un proceso racional de compra, de acuerdo como lo indica Promove Consultoría e Formación, SLNE (2012, p. 15). 
+    p Cada mercado debe conocer sus clientes, la manera cómo decide comprar, cómo convertirlo de #[em shopper] a #[em buyer] y monetizarlo, etc. Este cliente sigue un proceso racional de compra, de acuerdo como lo indica Promove Consultoría e Formación, SLNE (2012, p. 15). 
     p A continuación, se presenta el proceso:  
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -72,7 +72,7 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 4. 
           | Clientes y mercados
-        img(src='@/assets/curso/temas/Tema1/img05.svg', alt='Muestra los diferentes tipos de mercados como: internacional, de gobierno, de consumo, industrial y de revendedores.')
+        img(src='@/assets/curso/temas/Tema1/img05.svg', alt='La figura representa los diferentes tipos de mercados y clientes en un entorno comercial. En el centro, dos personas, alrededor de ellos, cinco íconos dentro de círculos morados indican los distintos mercados: consumo, industriales, revendedores, gobierno e internacionales. Cada ícono utiliza símbolos representativos, como una bicicleta para el mercado de consumo y un globo terráqueo para los mercados internacionales. El diseño emplea colores morados y un estilo gráfico simplificado para ilustrar la información.')
     
     separador
     #t_1_1.titulo-segundo.mb-4
@@ -151,7 +151,7 @@
         PasosA.color-acento-contenido.mb-5(tipo="n")(data-aos="zoom-in-left")
           .row
             .col-md-8.mb-4.mb-md-0
-              h3 Compradores industriales:
+              h3 Compradores industriales
               p Son aquellos que adquieren bienes y servicios para la obtención de productos intangibles que son objeto de comercialización posterior. Ejemplo: empresas de automóviles.
             .col-md-3
               figure
@@ -169,7 +169,7 @@
 
           .row
             .col-md-8.mb-4.mb-md-0
-              h3 Compradores intermediarios industriales:
+              h3 Compradores intermediarios industriales
               p Son aquellos que adquieren bienes y servicios para la obtención de productos generalmente intangibles, la mayoría de los cuales no son objeto de comercialización. Es el caso de universidades, fuerzas armadas, entre otros.
           
             .col-md-3
