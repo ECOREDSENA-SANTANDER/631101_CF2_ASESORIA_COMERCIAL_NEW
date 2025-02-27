@@ -170,7 +170,7 @@
           .row
             .col-md-8.mb-4.mb-md-0
               h3 Compradores intermediarios industriales
-              p Son aquellos que adquieren bienes y servicios para la obtención de productos generalmente intangibles, la mayoría de los cuales no son objeto de comercialización. Es el caso de universidades, fuerzas armadas, entre otros.
+              p Están formados por los compradores de bienes y servicios para revenderlos posteriormente o para facilitar la venta de otros productos. Ejemplo: mayoristas, minoristas, empresas de servicios, entre otros.
           
             .col-md-3
               figure

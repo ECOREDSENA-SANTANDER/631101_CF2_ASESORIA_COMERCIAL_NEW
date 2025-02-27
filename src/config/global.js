@@ -207,7 +207,7 @@ export default {
     {
       referencia:
         'Escamilla, G. (2020). Fidelización del cliente: concepto, importancia, consejos y métricas. RD Station.',
-      link: 'https://www.rdstation.com/co/blog/fidelizacion-del-cliente/ ',
+      link: '',
     },
     {
       referencia:
