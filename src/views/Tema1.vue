@@ -13,7 +13,7 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 1. 
           |  Roles del cliente
-        img(src='@/assets/curso/temas/Tema1/img01.svg', alt='Se muestra un juego de roles donde se expone que normalmente el cliente-comprador son la misma persona, sin embargo hay situaciones donde la persona que compra no es la misma persona que consume o e usuario del servicio.')
+        img(src='@/assets/curso/temas/Tema1/img01.svg', alt='Se muestra un juego de roles donde se expone que normalmente el cliente-comprador son la misma persona, sin embargo hay situaciones donde la persona que compra no es la misma persona que consume o el usuario del servicio.')
     p La siguiente tabla refuerza el concepto y la diferencia entre usuario y cliente:
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left", alt='La tabla muestra las diferencias clave entre un usuario y un cliente. El usuario se caracteriza por ser quien utiliza el producto o servicio de manera transitoria, sin ser propietario del mismo y con una relación pasajera. Por otro lado, el cliente es quien paga por el producto, hace un uso definitivo, se queda con el producto y establece una relación a largo plazo como dueño.')
