@@ -251,7 +251,8 @@ export default {
         'https://www.emprendedores.es/estrategia/que-significa-modelo-de-negocio/',
     },
     {
-      referencia: 'Schnarch, A. (2013). Marketing para pymes. Alfa Omega. ',
+      referencia:
+        'Schnarch, A. (2013). <i>Marketing</i> para <i>pymes</i>. Alfa Omega. ',
       link: '',
     },
     {
