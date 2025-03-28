@@ -217,8 +217,7 @@ export default {
     {
       referencia:
         'González Camacho, M. (2018). Segmentación, Definición de Público Objetivo y Posicionamiento. [presentación] Universidad Interamericana para el desarrollo. ',
-      link:
-        'http://docplayer.es/53991436-Segmentacion-definicion-de-publico-objetivo-y-posicionamiento.html ',
+      link: '',
     },
     {
       referencia:
@@ -241,8 +240,9 @@ export default {
       link: 'https://blog.hubspot.es/marketing/tipos-de-clientes-potenciales ',
     },
     {
-      referencia: 'Quiroa, M. (2020). Cliente. Economipedia. ',
-      link: ' https://economipedia.com/definiciones/cliente.html',
+      referencia:
+        'Quiroa, M. (2020). Cliente: Qué es y cuál es su importancia. Economipedia.',
+      link: 'https://economipedia.com/definiciones/cliente.html',
     },
     {
       referencia:
