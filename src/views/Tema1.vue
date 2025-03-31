@@ -16,12 +16,12 @@
         img(src='@/assets/curso/temas/Tema1/img01.svg', alt='Se muestra un juego de roles donde se expone que normalmente el cliente-comprador son la misma persona, sin embargo hay situaciones donde la persona que compra no es la misma persona que consume o el usuario del servicio.')
     p La siguiente tabla refuerza el concepto y la diferencia entre usuario y cliente:
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left", alt='La tabla muestra las diferencias clave entre un usuario y un cliente. El usuario se caracteriza por ser quien utiliza el producto o servicio de manera transitoria, sin ser propietario del mismo y con una relación pasajera. Por otro lado, el cliente es quien paga por el producto, hace un uso definitivo, se queda con el producto y establece una relación a largo plazo como dueño.')
-      .col-lg-10
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left", alt='La tabla muestra las diferencias clave entre un usuario y un cliente. El usuario se caracteriza por ser quien utiliza el producto o servicio de manera transitoria, sin ser propietario del mismo y con una relación pasajera. Por otro lado, el cliente es quien paga por el producto, hace un uso definitivo, se queda con el producto y establece una relación a largo plazo como dueño.')
+      .col-lg-10.col-md-12
         .titulo-sexto.color-secundario.mb-4
           h5 Tabla 1. 
           | Diferencia entre usuario y cliente
-      .col-lg-5
+      .col-lg-5.col-md-6
         .tabla-b.color-acento-contenido.mb-5
           thead.bg1table
             tr
@@ -43,7 +43,7 @@
             tr
               th Obligación pasajera
               td Relación a largo plazo
-      .col-lg-5
+      .col-lg-5.col-10.col-md-6
         img(src='@/assets/curso/temas/Tema1/img02.svg', alt='')
     
     p Indudablemente, el cliente es el principal objetivo hacia donde la empresa realiza su mayor esfuerzo, hacía él todos los planes y las estrategias de mercadeo deben enfocarse, desarrollarse e implementarse en función de ese cliente. Por tanto, las empresas tienen diferentes compradores o clientes de acuerdo con el tipo o segmento de mercado en el que compiten o en el que comercializan sus productos. La siguiente figura presenta otros conceptos que se tienden a usar para referirse al mercado, según Schnarch (2013, p. 74):
@@ -97,7 +97,7 @@
     p INSTIPP (2020, p. 38) también indica que estos mercados son aquellos en donde se realizan transacciones de bienes y servicios que se adquieren a través de los productos finales de consumo, los cuales a su vez se pueden clasificar en tres categorías principales:
     
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-4.col-md-6.col-8
         img.py-3(src='@/assets/curso/temas/Tema1/img07.png')
       .col-lg-8
@@ -147,7 +147,7 @@
     p.mb-5 Los mercados industriales tienen tres tipos de compradores y de acuerdo con lo indicado por González (2020). A continuación, se presentan:  
     
     .row.justify-content-center.align-items-center
-      .col-lg-10.mb-5(data-aos="fade-right")  
+      .col-lg-10.mb-(data-aos="fade-right")  
         PasosA.color-acento-contenido.mb-5(tipo="n")(data-aos="zoom-in-left")
           .row
             .col-md-8.mb-4.mb-md-0
@@ -211,7 +211,7 @@
     #t_1_3.titulo-segundo.mb-4
       h2 1.3 Mercados de revendedores
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
       .col-lg-12
         p Corresponde a las empresas que adquieren o compran los bienes y servicios con el propósito de revenderlos o rentarlos  a otros obteniendo una utilidad. Con relación a este caso, podemos mencionar a empresas como supermercados que le compran a una gran cantidad de empresas diferentes tipos de productos, que luego son vendidos en los supermercados. Entre los tipos de revendedores se tienen los siguientes:
       .col-lg-5.col-md-12
@@ -224,7 +224,7 @@
     #t_1_4.titulo-segundo.mb-4
       h2 1.4 Mercados de gobierno
 
-    .row.justify-content-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.mb-0(data-aos="fade-right")
       .col-lg-4
         p Está formado por las instituciones del gobierno o del sector público que adquieren bienes o servicios para llevar a cabo sus principales funciones; por ejemplo, para la administración del Estado, para brindar servicios sociales (drenaje, pavimentación, limpieza, entre otros.), para mantener la seguridad, etc. 
       .col-lg-8

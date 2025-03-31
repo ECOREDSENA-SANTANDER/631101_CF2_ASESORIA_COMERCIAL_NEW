@@ -25,7 +25,7 @@
     .py-3
     p Con base en lo anterior, se concluye que toda empresa que quiera alcanzar el éxito dentro del mercado debe enfocarse en el cliente. 
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
           p Sólo las empresas que conocen y entienden de mejor manera las necesidades, los intereses y deseos de sus clientes, son aquellas capaces de preparar las mejores propuestas de productos para ser entregados al mercado.
@@ -34,7 +34,7 @@
     #t_2_1.titulo-segundo.mb-4
       h2 2.1 Atraer clientes
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-2
       .col-lg-12
         p Para atraer clientes a la empresa, soportados en el portafolio de productos y su valor agregado, esta debe seguir un proceso de captación. Hay que destacar que cada empresa y cada tipo de cliente necesita un proceso adaptado a sus características y particularidades propias. A continuación,  se presenta un proceso general que sirve de modelo para aquellas empresas que quieren mantener una base de clientes sólida y en crecimiento:
     
@@ -100,7 +100,7 @@
                 p Para ello, la empresa debe destinar recursos humanos, monetarios y de tiempo que deben ser tenidos en cuenta a la hora de realizar la comunicación para captar clientes. Todo lo anterior con el objetivo de obtener pleno conocimiento en la forma como estos se comportan en un proceso de compra.
     p De acuerdo con Promove Consultoría e Formación SLNE (2012), existen acciones establecidas para captar clientes:
      
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
       .col-lg-12
         SlyderF(columnas="col-lg-4 col-xl-4 col-md-6").mb-5
             .tarjeta.color.p-4
@@ -170,7 +170,7 @@
                       p.text-center.mb-0 #[b Organizar algún evento] en el establecimiento que pueda atraer los clientes objetivo.
               
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-lg-12
         p Todas estas acciones aplicadas a los segmentos seleccionados y con un conocimiento de la competencia, se podrán realizar planes de captación de clientes en los que se definan claramente los segmentos de clientes de mayor a menor valor a captar, así como los recursos comerciales y de mercadeo que se deben asignar a cada segmento.      
     
@@ -202,9 +202,9 @@
     #t_2_3.titulo-segundo.mb-4
       h2 2.3  Fidelizar clientes
     
-    p.mb-4 La fidelización se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a lo largo del tiempo. 
+    p.mb-5 La fidelización se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a lo largo del tiempo. 
     
-    .row.justify-content-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.mb-1(data-aos="fade-right")
       .col-lg-8
         .bloque-texto-f.comillas.pt-4.px-5.mb-5
           .bloque-texto-f__comillas
@@ -226,7 +226,7 @@
     p La empresa debe incluir en su plan de fidelización programas que procuren mantener un vínculo de comunicación entre la empresa y los clientes. Entre los más utilizados se encuentran los siguientes:
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-4.col-md-8.mb-3.mb-md-0
+      .col-lg-4.col-md-6.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img12.png", alt="")
@@ -235,7 +235,7 @@
                 h4.mt-3.mb-3.text-white Tarjetas de fidelización
                 p.px-4 Se trata de premiar el consumo con obsequios. Este tipo de tarjetas ofrece a los titulares una serie de ventajas adicionales como descuentos, puntos canjeables por regalos e incluso la devolución de un tanto por ciento de sus compras.
       
-      .col-lg-4.col-md-8.mb-3.mb-md-0
+      .col-lg-4.col-md-6.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img13.png", alt="")
@@ -243,7 +243,7 @@
               .row.text-center.px-1.pt-1.mt-md-4.pt-md-0.mt-lg-3.mt-xl-4
                 h4.mt-3.mb-3.text-white Cupones de descuento
                 p.px-4 El usuario puede recortar un cupón y obtendrá una rebaja en el precio de algún producto o servicio del establecimiento.
-      .col-lg-4.col-md-8.mb-3.mb-md-0
+      .col-lg-4.col-md-6.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img14.png", alt="")
@@ -252,7 +252,7 @@
                 h4.mt-3.mb-3.text-white Regalos
                 p.px-4 El cliente recibe un regalo, vinculado o no a la actividad de la empresa, y es ofrecido en agradecimiento a la compra o uso de un producto o servicio del establecimiento. También se pueden dar por fechas especiales.
       
-      .col-lg-4.col-md-8.mb-3.mb-md-0
+      .col-lg-4.col-md-6.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img15.png", alt="")
@@ -261,7 +261,7 @@
                 h4.mt-3.mb-3.text-white Puntos de compra
                 p.px-4 Permiten obtener una serie de beneficios en tiempo real. Como la estrategia de los Almacenes Éxito “Puntos Colombia”.
       
-      .col-lg-4.col-md-8.mb-3.mb-md-0
+      .col-lg-4.col-md-6.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img16.png", alt="")
@@ -270,7 +270,7 @@
                 h4.mt-3.mb-3.text-white Gestionar clientes a través de #[em apps]
                 p.px-4 Una aplicación en el móvil permite interactuar con los clientes. A este tipo de aplicaciones se les puede añadir diferentes funcionalidades, como por ejemplo, una búsqueda de clientes para así, tenerlo todo ordenado y clasificado según categorías o intereses.
       
-      .col-lg-4.col-md-8.mb-3.mb-md-0
+      .col-lg-4.col-md-6.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img17.png", alt="")
@@ -279,7 +279,7 @@
                 h4.mt-3.mb-3.text-white Comunicación personalizada
                 p.px-4 Envío directo al cliente de ofertas con descuento exclusivo y personalizado.
       
-      .col-lg-4.col-md-8.mb-3.mb-md-0
+      .col-lg-4.col-md-6.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img18.png", alt="")
@@ -288,7 +288,7 @@
                 h4.mt-3.mb-3.text-white C.R.M
                 p.px-4 Montado para tener comunicaciones más fluidas y directas con los clientes.
       
-      .col-lg-4.col-md-8.mb-3.mb-md-0
+      .col-lg-4.col-md-6.mb-3.mb-md-0
         .row.px-2.pt-2.h-100
           .col-12.m-0.nav-holder2.align-items-center.px-0
             img(src="@/assets/curso/temas/Tema2/img19.png", alt="")

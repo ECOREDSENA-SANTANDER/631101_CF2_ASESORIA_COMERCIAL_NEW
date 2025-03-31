@@ -10,7 +10,7 @@
     p.mb-3 Desde la perspectiva del mercadeo, existen dos grupos principales de clientes: los clientes actuales y los potenciales. Estos se explican a continuación: 
 
     .row.justify-content-center(data-aos="fade-left")
-      .col-lg-6.col-md-10.mb-4
+      .col-lg-6.col-md-12.mb-4
         .overflow-hidden.h-100.bg4.p-4
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/Tema3/img01.png', alt='tema2')
           .row.justify-content-center.mb-3
@@ -19,7 +19,7 @@
                 h3.text-center.mb-0 Clientes actuales
           p.mb-4 Son todos los clientes que la empresa posee actualmente y por tanto representan un activo muy valioso, sobre todo para mantener el nivel de participación dentro del mercado total. Los clientes actuales se pueden mantener y aumentar su volumen de compra de la oferta de la empresa, con nuevos productos diferenciados para diversas necesidades. Por ejemplo, Quala ofrece Frutiño, una bebida refrescante, pero también ofrece NutriBela para el cabello. Son dos necesidades diferentes que ayuda a aumentar sus ventas y el tamaño de su mercado.
           p.mb-4 Para conservar a los clientes actuales, las empresas deben lograr la plena satisfacción de sus clientes, no solo con la entrega de productos de excelente calidad, sino brindando un nivel de servicio que los mantenga satisfechos y compren siempre la marca.
-      .col-lg-6.col-md-10.mb-4
+      .col-lg-6.col-md-12.mb-4
         .overflow-hidden.h-100.bg4.p-4
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/Tema3/img02.png', alt='tema2')
           .row.justify-content-center.mb-3
