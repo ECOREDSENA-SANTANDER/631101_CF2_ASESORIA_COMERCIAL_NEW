@@ -252,7 +252,7 @@ export default {
     },
     {
       referencia:
-        'Schnarch, A. (2013). <i>Marketing</i> para <i>pymes</i>. Alfa Omega. ',
+        'Schnarch, A. (2013). <i>Marketing</i> para pymes. Alfa Omega. ',
       link: '',
     },
     {
